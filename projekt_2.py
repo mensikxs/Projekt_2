@@ -129,7 +129,8 @@ def validate_number() -> list:
 
 def count_matched_numbers(
         entered_number: list,
-        secret_number: list) -> int:
+        secret_number: list
+        ) -> int:
     """
     Counts the number of matched digits between the entered number and
     the secret number.
@@ -149,7 +150,8 @@ def count_matched_numbers(
 
 def count_matched_positions(
         entered_number: list,
-        secret_number: list) -> int:
+        secret_number: list
+        ) -> int:
     """
     Counts the number of digits in the entered number that match both
     in value and position with digits in the secret number.
@@ -172,7 +174,8 @@ def count_matched_positions(
 
 def count_cows(
         matched_numbers: int,
-        matched_positions: int) -> int:
+        matched_positions: int
+        ) -> int:
     """
     Counts the number of cows in the bulls and cows game.
 
