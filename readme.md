@@ -5,6 +5,7 @@
 
 Program simuluje hru Bulls and Cows:</br>
 Skládá se z jednotlivých funkcí, které jsou využity v hlavní funkci hry.</br>
+Uchovává statistiky počtu hádacích pokusů jednotlivých her v souboru score_statistics.txt</br>
 
 Program:
 1. vygeneruje náhodné čtyřciferné číslo (číslice jsou unikátní a nezačínají 0)</br>
