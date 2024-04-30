@@ -1,9 +1,9 @@
 ### Dokumentace k projektu č.2
 
 ## Projekt č.2 - Bulls & Cows game
-**Program pracuje s moduly os, random a time**</br>
+**Program simuluje hru Bulls and Cows**</br>
 
-Program simuluje hru Bulls and Cows:</br>
+Program pracuje s moduly os, random a time.</br>
 Skládá se z jednotlivých funkcí, které jsou využity v hlavní funkci hry.</br>
 Uchovává statistiky počtu hádacích pokusů jednotlivých her v souboru score_statistics.txt</br>
 
